@@ -1,7 +1,7 @@
 const words = [
-  'okayy', 'kek', 'human', ':)', 'lmao', 'okkk', '<3', 'lil boi', 'pleb'
+  'okayy', 'kek', 'human', ':)', 'lmao', 'okkk', '<3', 'lil boi', 'pleb', '<3'
 ];
-const emojis = ['☁️', '💭', '✨', '🌸', '💬', '⭐', '🌼', '🫧'];
+const emojis = ['☁️', '💭', '✨', '🌸', '💬', '🌦️', '⭐', '🌼', '🌥️','🫧'];
 
 function createCloud() {
   const word = words[Math.floor(Math.random() * words.length)];
